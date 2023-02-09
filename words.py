@@ -1,4 +1,5 @@
 words_list = [
-    'smile',
-    'funny'
+    'silly',
+    'gorgeous',
+    'lovely'
 ]
